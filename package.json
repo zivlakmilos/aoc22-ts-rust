@@ -1,0 +1,26 @@
+{
+  "name": "aoc22-ts-rust",
+  "version": "1.0.0",
+  "description": "Advent of Code 2022 in TypeScript and Rust",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zivlakmilos/aoc22-ts-rust.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zivlakmilos/aoc22-ts-rust/issues"
+  },
+  "homepage": "https://github.com/zivlakmilos/aoc22-ts-rust#readme",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
